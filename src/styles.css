@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* General CSS */
+
+#wrapper {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #90C7E3;
+  box-shadow: 5px 5px 5px #828282;
+}
+
+body {
+    background-color: black;
+}
+
+#demo {
+    display: flex;
+    flex-direction: row;
+}
+
+.center {
+    text-align: center;
+}
+
+.nav {
+    flex: 2;
+}
+
+.main {
+    flex: 6;
+}
+
+.aside {
+    flex: 2;
+}
+
+/* CSS for header component */
+.header {
+    color: white;
+    padding: 30px;
+    text-transform: uppercase;
+}
