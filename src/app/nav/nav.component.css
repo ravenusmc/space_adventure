@@ -1,0 +1,28 @@
+nav {
+    font-weight: bold;
+    padding: 20px 5px 0 30px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+nav a {
+  font-size: 2em;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+
+nav a:link {
+  color: #000033;
+}
+
+nav a:visited {
+  color: #344873;
+}
+
+nav a:hover {
+  color: #FFFFFF;
+}

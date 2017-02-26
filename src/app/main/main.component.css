@@ -1,5 +1,15 @@
+.main_page {
+    background-color: white;
+}
+
 .main_img_one {
     height: 150px;
     width: 200px;
     float: right;
+}
+
+.main_img_two {
+    height: 150px;
+    width: 200px;
+    float: left;
 }
