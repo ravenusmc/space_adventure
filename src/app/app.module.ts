@@ -10,6 +10,7 @@ import { MainComponent } from './main/main.component';
 import { AsideComponent } from './aside/aside.component';
 import { AboutComponent } from './about/about.component';
 import { FooterComponent } from './footer/footer.component';
+import { SpaceComponent } from './space/space.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FooterComponent } from './footer/footer.component';
     MainComponent,
     AsideComponent,
     AboutComponent,
-    FooterComponent
+    FooterComponent,
+    SpaceComponent
   ],
   imports: [
     BrowserModule,
