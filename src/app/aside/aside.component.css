@@ -12,4 +12,6 @@ button {
     background-color: black;
     border-color: black;
     color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
