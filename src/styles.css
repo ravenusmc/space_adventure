@@ -17,6 +17,7 @@ body {
 #demo {
     display: flex;
     flex-direction: row;
+    flex-flow: wrap;
 }
 
 .center {
@@ -33,6 +34,9 @@ body {
 
 .aside {
     flex: 3;
+    margin-left: 1%;
+    margin-right: 1%;
+
 }
 
 /* CSS for header component */
