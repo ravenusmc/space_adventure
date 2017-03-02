@@ -28,11 +28,11 @@ body {
 }
 
 .main {
-    flex: 6;
+    flex: 5;
 }
 
 .aside {
-    flex: 2;
+    flex: 3;
 }
 
 /* CSS for header component */
